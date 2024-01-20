@@ -1,4 +1,4 @@
-👋 Hello there! I'm Alberto Torres, a passionate fullstack web developer based in Miami. With over three years of experience, I specialize in JavaScript, React.js, HTML, CSS, Node.js, Tailwind CSS, MongoDB, and PostgreSQL.
+👋 Hello there! I'm Alberto Torres, a passionate fullstack developer based in Miami. With over three years of experience, I specialize in JavaScript, React.js, HTML, CSS, Node.js, Tailwind CSS, MongoDB, and PostgreSQL.
 
 🚀 My journey includes collaborating with startups, contributing to the development of a Cuban marketplace, and creating a platform connecting businesses and freelancers. I excel in Git, GitHub, agile methodologies like Scrum, and Jira for project management.
 
