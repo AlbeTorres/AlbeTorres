@@ -1,4 +1,4 @@
-# ![albetorres](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello there! I'm Alberto Torres 👋
+# ![albetorres](https://github.com/AlbeTorres/AlbeTorres/blob/main/albedev_logo.webp) Hello there! I'm Alberto Torres 👋
 
 ### Freelance fullstack software engineer
 
