@@ -9,7 +9,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-69C9D0?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React.JS-0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Next](https://img.shields.io/badge/Next.JS-white?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
+[![Next](https://img.shields.io/badge/Next.JS-232F3E?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
 [![Astro](https://img.shields.io/badge/Astro-E4405F?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
 [![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0095D5?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 
