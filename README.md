@@ -1,4 +1,4 @@
-# ![albetorres](https://github.com/AlbeTorres/AlbeTorres/blob/main/albedev_logo.webp) Hello there! I'm Alberto Torres 👋
+# <img src=https://raw.githubusercontent.com/AlbeTorres/AlbeTorres/main/albedev_logo.webp width=60px height=60px style="padding: 0px"/> Hello there! I'm Alberto Torres 👋
 
 ### Freelance fullstack software engineer
 
