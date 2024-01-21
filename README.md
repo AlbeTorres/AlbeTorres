@@ -16,11 +16,11 @@
 
 
 
-🚀 My journey includes collaborating with startups, contributing to the development of a marketplace, and creating a platform connecting businesses and freelancers. I excel in Git, GitHub, agile methodologies like Scrum, and Jira for project management.
+### 🚀 My journey includes collaborating with startups, contributing to the development of a marketplace, and creating a platform connecting businesses and freelancers. I excel in Git, GitHub, agile methodologies like Scrum, and Jira for project management.
 
-🎓 As a perpetual learner, I'm always exploring new realms of software development. My goal? Empowering others to elevate their skills, create businesses, and boost their income.
+### 🎓 As a perpetual learner, I'm always exploring new realms of software development. My goal? Empowering others to elevate their skills, create businesses, and boost their income.
 
-💻 Currently, I'm focused on building my personal brand online, aiming to share knowledge and assist aspiring developers. Let's connect, collaborate, and code for success! 🚀
+### 💻 Currently, I'm focused on building my personal brand online, aiming to share knowledge and assist aspiring developers. Let's connect, collaborate, and code for success! 🚀
 
 ## Contact me at:
 [![X](https://img.shields.io/badge/albe_torres-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://twitter.com/albe_torres)
